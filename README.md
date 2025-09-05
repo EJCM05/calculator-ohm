@@ -9,6 +9,7 @@ Punto 1: Selector de bandas de resistencias (4,5,6 bandas)
 
 Punto 2: Seleccion de colores en la resistencia + multiplicadores.
 
+Punto 3: Se integro la calculadora de resistencias SMD en formato alfanumerico
 
 ## Tecnologías Utilizadas
     - Vue
