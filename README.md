@@ -39,7 +39,7 @@ Un proyecto simple pero poderoso, mi unico desafio fue elegir la paleta de color
 
 ### Contacto y Enlaces
 
-[[!Web del proyecto (Oficial)]](https://nombredelproyecto.com)
+[[!Web del proyecto (Oficial)]](https://calculator-ohm.vercel.app/)
 
 [[!Mi portafolio personal]](https://EJCM05.github.io)
 
