@@ -1,4 +1,4 @@
-# Calculator Ohm
+# Calculator Ohm EJCM
 
 [![Calculator-Ohm]](https://i.postimg.cc/15k2SLrt/logo.png)
 
