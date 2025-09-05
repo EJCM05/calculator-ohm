@@ -1,8 +1,8 @@
-# Calculator Ohm EJCM
+# Calculator Ohm
 
 ![Calculator-Ohm](https://i.postimg.cc/15k2SLrt/logo.png)
 
-Estaba con el pensamiento de crear una calculadora de resistencias para electronica, entonces me puse manos a la obra y la realice, resolvio mi problematica de calculadora con rapidez, cumpliendo con mis espectativas y sobre todo la posibilidad de usarla tanto en web como en android. si, se encuentra disponible en apk
+Estaba con el pensamiento de crear una calculadora de resistencias para electronica, entonces me puse manos a la obra y la realice, resolvio mi problematica de calculadora con rapidez, cumpliendo con mis espectativas y sobre todo la posibilidad de usarla tanto en web como en android. si, se encuentra disponible en apk. 
 
 ## Funcionalidades y Características
 Punto 1: Selector de bandas de resistencias (4,5,6 bandas)

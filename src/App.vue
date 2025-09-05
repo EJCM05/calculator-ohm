@@ -2,7 +2,8 @@
   <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column text-center">
     <header class="mx-auto">
       <div>
-        <h1 class="float-md-start mb-0 d-flex align-items-center justify-content-center">Calculator<span class="color-ohm px-2"><img :src="Logo" alt=""> </span> ohm</h1>
+        <h1 class="float-md-start mb-0 d-flex align-items-center justify-content-center">Calculator<span
+            class="color-ohm px-2"><img :src="Logo" alt=""> </span> ohm</h1>
       </div>
     </header>
     <main class="container-fluid">
@@ -11,7 +12,8 @@
       <SmdResistorCalculator v-else></SmdResistorCalculator>
     </main>
     <footer class="mt-auto">
-      <p><a href="https://www.youtube.com/@From_computing" class="text-black" target="_blank">From Computing</a>, by <a href="https://github.com/EJCM05/EJCM05" target="_blank" class="text-black">@ECJM</a>.</p>
+      <p><a href="https://www.youtube.com/@From_computing" class="text-black" target="_blank">From Computing</a>, by <a
+          href="https://github.com/EJCM05/EJCM05" target="_blank" class="text-black">@ECJM</a>.</p>
     </footer>
   </div>
 </template>
